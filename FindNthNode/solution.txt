@@ -1,0 +1,51 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;
+ *     public ListNode(int val=0, ListNode next=null) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode RemoveNthFromEnd(ListNode head, int n) {
+        if(head==null)
+        {
+            Console.WriteLine("List is empty.");
+            return null;
+        }
+
+        int count = 0;
+        ListNode temp = head;
+        while(temp!=null)
+        {
+            count++;
+            temp = temp.next;
+        }
+        count = count - n;
+        if (count == 0)
+        {
+            temp = head.next;
+            head.next = null;
+            head = null;
+            return temp;
+        }
+        ListNode curr = head;
+        ListNode previous = null;
+        while(count > 0)
+        {
+            previous = curr;
+            curr = curr.next;
+            count--;
+        }
+        previous.next = curr.next;
+        curr.next = null;
+        curr = null;
+
+
+
+        return head;
+    }
+}

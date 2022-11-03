@@ -1,0 +1,15 @@
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\bin\Debug\net6.0\FindPivotIndex.exe
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\bin\Debug\net6.0\FindPivotIndex.deps.json
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\bin\Debug\net6.0\FindPivotIndex.runtimeconfig.json
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\bin\Debug\net6.0\FindPivotIndex.dll
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\bin\Debug\net6.0\FindPivotIndex.pdb
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.csproj.AssemblyReference.cache
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.AssemblyInfoInputs.cache
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.AssemblyInfo.cs
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.csproj.CoreCompileInputs.cache
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.dll
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\refint\FindPivotIndex.dll
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.pdb
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\FindPivotIndex.genruntimeconfig.cache
+C:\Users\jihad\source\repos\FindPivotIndex\FindPivotIndex\obj\Debug\net6.0\ref\FindPivotIndex.dll

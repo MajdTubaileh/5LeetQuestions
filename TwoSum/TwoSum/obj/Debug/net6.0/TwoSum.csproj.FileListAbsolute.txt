@@ -1,0 +1,15 @@
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\bin\Debug\net6.0\TwoSum.exe
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\bin\Debug\net6.0\TwoSum.deps.json
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\bin\Debug\net6.0\TwoSum.dll
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\bin\Debug\net6.0\TwoSum.pdb
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.dll
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\refint\TwoSum.dll
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.pdb
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+C:\Users\jihad\source\repos\x5LeetFirst\x5LeetFirst\obj\Debug\net6.0\ref\TwoSum.dll
